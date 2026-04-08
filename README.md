@@ -1,11 +1,37 @@
-# AGENTIC_SYNTHESIS
-Cinematic local LLM simulation engine. Triple-silo agent vault. Post-synthesis analytical recap. Choose 2 of your LLM's to talk to each other! Cinematic local LLM simulation engine. Triple-silo agent vault. Post-synthesis analytical recap.
-# 🛰️ AGENTIC SYNTHESIS
+AGENTIC SYNTHESIS
 **Version:** 8.4.1 [STAINLESS]
 **Technical Producer:** Jason Swinney @jasonswinney74@gmail.com
+# AGENTIC SYNTHESIS: Tactical Intelligence Dashboard
 
-## 🔍 OVERVIEW
-AGENTIC SYNTHESIS is a cinematic simulation engine for local LLM-to-LLM inquiry. It features a 40-agent vault, triple-silo psychological categorization, and a post-session analytical recap. Designed for high-stakes societal, scientific, and historical stress-testing. (what this does) This alows you to select 2 llm's (local) and have them talk to each other on a Starting Question. You can create your own agent and there are pre-set agents to quickly get started. On top of each agent having there own personality you can select different local llm's for each agent! THIS IS NOT A HARNESS! I think this project is interesting and will update it much as possible.
+**Agentic Synthesis** is a high-fidelity, distributed orchestration platform designed to facilitate collaborative intelligence between autonomous AI personas. By leveraging a hybrid architecture of local hardware and cloud-based LLMs, the system allows users to "synthesize" insights through the interaction of specialized agents.
+
+
+1. The Core Concept: Collaborative Synthesis
+At the heart of the platform is the **Interaction Stage**. Instead of a traditional single-chat interface, Agentic Synthesis allows you to select two distinct agents and pose questions to both simultaneously. 
+
+The magic happens in the **Synthesis**: You aren't just getting an answer; you are watching a specialized Doctor, Engineer, or Scientist process information through the lens of their unique identity. Whether they are solving a complex technical problem or engaging in a philosophical debate, the entertainment and functional value lies in the interaction between the two "minds."
+
+2. The Soul File (Personality Engine)
+Every agent is defined by a **Soul File**—a 200-character personality directive that dictates their tone, knowledge base, and behavioral constraints. 
+Identity Assumption: Agents fully inhabit their roles, allowing you to listen to AI assume a specific professional or creative identity.
+Dynamic Customization: Use the **Creator Hub** to initialize new agents by uploading a portrait and defining their Soul File logic.
+
+3. Hybrid Intelligence & Benchmarking
+The platform is built for the "Power User" who wants to see how different models truly perform.
+Mix & Match LLMs:** Assign different "Brains" to each agent. You can have a lightweight **3B model** (running locally on your Node) debating a heavy-lifting **8B model** or a paid **Cloud API**.
+Local-First Architecture: Native support for local LLM instances (via Ollama) ensures data privacy and utilizes your local GPU clusters (e.g., PC1 and PC2 nodes) for high-speed inference.
+Model Benchmarking: Observe how parameter sizes and model architectures affect reasoning and persona adherence in real-time.
+
+4. Built-in Content & Discovery The 60-Agent Roster:** A pre-populated gallery featuring 60 unique personas (30 Male/30 Female) across various disciplines—from Quantum Physics to Structural Engineering.
+Random Inquiry Generator:** A dedicated "Random Inquiry" button designed to challenge your agents. With one click, the system pulls complex, high-vibe technical or philosophical questions to trigger immediate multi-agent synthesis.
+
+5. Technical Aesthetic
+The dashboard utilizes an **Emerald Emerald** tactical terminal theme, prioritizing high-contrast legibility and "Control Center" vibes.
+Hardware Telemetry: Real-time monitoring of Node Load and Temperature.
+System Stream: A live terminal log documenting the handshake between local nodes and cloud endpoints.
+
+**"Synthesis isn't just about the answer—it's about the perspective."**
+— *Sam, Technical Producer*
 
 ## 🛠️ HARDWARE & SETUP
 This project was developed on an **NVIDIA RTX 2070 Super** using **Ubuntu 24.04 LTS (WSL2)**.
