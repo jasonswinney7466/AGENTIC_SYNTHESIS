@@ -1,6 +1,8 @@
 AGENTIC SYNTHESIS
 **Version:** 8.4.1 [STAINLESS]
 **Technical Producer:** Jason Swinney @jasonswinney74@gmail.com
+This is a new project from someone with a good idea. This is far from done and is vibe coded. I find it interesting to hear them talk to each other. It's also nice to comapre how different LLM's rely to questions.
+I will keep working on this, while I think of the ultimate format for this is. I have not got it to solve a real world problem like world hunger, energy yet. lol
 
 Agentic Synthesis is a high-fidelity, distributed orchestration platform designed to facilitate collaborative intelligence between autonomous AI personas. By leveraging a hybrid architecture of local hardware and cloud-based LLMs, the system allows users to "synthesize" insights through the interaction of specialized agents.
 
